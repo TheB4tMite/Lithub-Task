@@ -1,1 +1,1 @@
-# I am Learning Git
+I am learning Git and Linux
